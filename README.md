@@ -1,1 +1,2 @@
 # sinatra-scaffold
+# sinatra-scaffold
